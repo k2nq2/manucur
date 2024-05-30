@@ -1,0 +1,65 @@
+.slider {
+    padding-top: 0;
+    margin-bottom: 12rem;
+}
+
+.slider img {
+    width: 100%;
+    border-radius: 0.5rem;
+}
+
+.slider .subtitle {
+    margin-bottom: 5rem;
+}
+
+.receipts-slider .slick-next,
+.receipts-slider .slick-prev {
+    display: none;
+    z-index: 2;
+    right: 1.1rem;
+    background-image: url(../../images/slider-arrow.png)!important;
+    background-size: contain!important;
+    background-repeat: no-repeat!important;
+    background-position: center!important;
+    width: 6.5rem!important;
+    height: 6.5rem!important;
+    top: 47.5rem;
+    transform: translateY(-50%);
+}
+
+.receipts-slider .slick-prev {
+    left: 14.1rem;
+    right: auto;
+    transform: translateY(-50%);
+}
+
+.receipts-slider .slick-next {
+    transform: translateY(-50%) scaleX(-1);
+    right: 14.1rem;
+} 
+
+.receipts-slider .slick-next:before,
+.receipts-slider .slick-prev:before {
+    display: none!important;
+}
+.slider-text{
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 14px;
+line-height: 143%;
+color: #fff;
+}
+
+.slider-text-div {
+    display: flex;
+    padding: 0rem 4rem 3rem 4rem;
+    gap: 3rem;
+}
+.gradient{
+    position: absolute;
+    z-index: -1;
+    transform: translateY(-26rem);
+}
+.slick-dots {
+    display: none !important;
+}
