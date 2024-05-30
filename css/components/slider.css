@@ -59,6 +59,7 @@ color: #fff;
     position: absolute;
     z-index: -1;
     transform: translateY(-26rem);
+    width: 27.1rem !impoetant;
 }
 .slick-dots {
     display: none !important;
