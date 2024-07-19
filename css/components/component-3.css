@@ -135,7 +135,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 3.4rem;
 }
 .promo-wrap > p{
     font-family: var(--font-family);
@@ -146,6 +145,8 @@
 .promo-wrap{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3.3rem;
 }
 .line{
     width: 31.8rem;
