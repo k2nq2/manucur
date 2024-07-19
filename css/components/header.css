@@ -206,7 +206,7 @@ header {
 }
 
 .burger-menu_active .burger-menu_nav {
-    right: 0;
+    transform: translateX(-600%);
     -webkit-transition: 0.2s linear;
     -moz-transition: 0.2s linear;
     -o-transition: 0.2s linear;
