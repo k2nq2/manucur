@@ -1,0 +1,72 @@
+footer {
+    padding-bottom: 10rem;
+    padding-top: 8rem;
+}
+
+.bottom-text {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 1.1rem;
+    line-height: 182%;
+    text-align: center;
+    color: #4d4d4d;
+    margin-top: 7rem;
+}
+.p {
+    font-family: var(--font-family);
+font-weight: 400;
+font-size: 1.4rem;
+line-height: 143%;
+color: #fff;
+text-align: center;
+}
+.logo-footer{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
+.contacts{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 192%;
+    text-align: center;
+    color: #fff;
+    margin-top: 4.3rem;
+    margin-bottom: 6rem;
+}
+.link-head{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.3rem;
+    line-height: 192%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
+.links{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    color: #fff;
+}
+.map{
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 3rem;
+}
+.contact-wrap{
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem 3rem 0rem 3rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+.div-contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+
+}
