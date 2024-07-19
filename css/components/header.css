@@ -211,6 +211,7 @@ header {
     -moz-transition: 0.2s linear;
     -o-transition: 0.2s linear;
     transition-duration: 0.2s;
+    transition: transform 3s;
     overflow: hidden;
     display: flex;
 }
