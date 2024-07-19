@@ -210,7 +210,7 @@ header {
     -webkit-transition: 0.2s linear;
     -moz-transition: 0.2s linear;
     -o-transition: 0.2s linear;
-    transition: 0.2s linear;
+    transition-duration: 0.2s linear;
     overflow: hidden;
     display: flex;
 }
