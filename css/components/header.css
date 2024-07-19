@@ -183,8 +183,8 @@ header {
     flex-direction: column;
     height: 69.1rem;
     width: 21.3rem;
-    backdrop-filter: blur(3rem);
-    -webkit-backdrop-filter: blur(3rem);
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
     background: rgba(37, 37, 37, 0.5);
     overflow-y: auto;
     right: -300%;
