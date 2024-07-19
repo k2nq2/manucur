@@ -193,7 +193,7 @@ header {
     -webkit-transition: 0.8s;
     -moz-transition: 0.8s;
     -o-transition: 0.8s;
-    transition: transform 5s;
+    transition: transform 3s cubic-bezier(0, 0.99, 0.8, 0.8);;
 }
 
 .burger-menu_link {
@@ -211,7 +211,8 @@ header {
     -moz-transition: 0.2s linear;
     -o-transition: 0.2s linear;
     transition-duration: 0.2s;
-    transition: transform 1.5s;
+    transition: transform 1.5s cubic-bezier(0, 0.99, 0.8, 0.8);
+    *-+-;
     overflow: hidden;
     display: flex;
 }
