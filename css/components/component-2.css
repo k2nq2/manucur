@@ -1,0 +1,105 @@
+.c2 {
+    padding-top: 9.6rem;
+}
+
+.c2-content {
+    position: relative;
+    margin-top: 2.5rem;
+}
+.c2-div{
+    border: 0.2rem solid rgba(255, 255, 255, 0.2);
+    border-radius: 1.5rem;
+    width: 36.8rem;
+    height: 10.5rem;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+    background: linear-gradient(221deg, #fde5c1 0%, #dcc39d 100%), radial-gradient(55.45% 129.03% at 53.12% 21%, rgb(255, 255, 255) 0%, rgb(255, 255, 255) 100%);
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.8rem;
+    text-align: center;
+    color: #4a4133;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5.1rem;
+    margin-bottom: 3rem;
+}
+.c2-text{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.6rem;
+    text-align: center;
+    color: #fff;
+}
+.c2 img{
+    border-radius: 3rem;
+    left: 50%;
+    transform: translate(-50%);
+    position: relative;
+    width: 36.8rem;
+    margin-top: 2.4rem;
+}
+.c2-content img {
+    position: relative;
+    top: -1.7rem;
+    height: 10rem;
+}
+
+.c2-top-text,
+.c2-bot-text {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.4rem;
+    line-height: 143%;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top: 15.6rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.c2-bot-text {
+    font-weight: 400;
+    top: 23.2rem;
+}
+.second-text{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 154%;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #b0f8f4; 
+    padding-top: 1.3rem;
+}
+.block {
+    width: 33.6rem;
+    height: 22.8rem;
+    background-color: #fff;
+    border: 0.2rem solid #6abcb7;
+    border-radius: 2rem;
+    padding-left: 2.7rem;
+}
+.head-text {
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 125%;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #363a4f;
+    margin-top: -1rem;
+    margin-bottom: 2.7rem;
+}
+.c2-second-text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 143%;
+    color: #363a4f;
+}
