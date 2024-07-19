@@ -187,7 +187,7 @@ header {
     -webkit-backdrop-filter: blur(3rem);
     background: rgba(37, 37, 37, 0.5);
     overflow-y: auto;
-    right: -100%;
+    right: -300%;
     gap: 3rem;
     border-radius: 1rem 0rem 1rem 1rem;
     -webkit-transition: 0.8s;
