@@ -55,6 +55,8 @@ text-align: center;
     left: 50%;
     transform: translate(-50%);
     border-radius: 3rem;
+    width: 36.8rem;
+    height: 36.8rem;
 }
 .contact-wrap{
     display: flex;
