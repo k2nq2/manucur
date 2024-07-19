@@ -207,10 +207,10 @@ header {
 
 .burger-menu_active .burger-menu_nav {
     right: 0;
-    -webkit-transition: 0.5s linear;
-    -moz-transition: 0.5s linear;
-    -o-transition: 0.5s linear;
-    transition: 0.5s linear;
+    -webkit-transition: 0.2s linear;
+    -moz-transition: 0.2s linear;
+    -o-transition: 0.2s linear;
+    transition: 0.2s linear;
     overflow: hidden;
     display: flex;
 }
