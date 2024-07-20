@@ -19,7 +19,6 @@
 .receipts-slider .slick-next,
 .receipts-slider .slick-prev {
     display: none;
-    z-index: 2;
     right: 1.1rem;
     background-image: url(../../images/slider-arrow.png)!important;
     background-size: contain!important;
